@@ -1,0 +1,106 @@
+<?xml version="1.0"?>
+<SqlWorkbenchSqlProject xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" Name="Library">
+  <Items>
+    <LogicalFolder Name="Соединения" Type="2" Sorted="true">
+      <Items>
+        <ConnectionNode Name="AKI-LENOVO:AKI-LENOVO\root">
+          <Created>2022-05-17T11:52:00.769954+03:00</Created>
+          <Type>SQL</Type>
+          <Server>AKI-LENOVO</Server>
+          <UserName />
+          <Authentication>Проверка подлинности Windows</Authentication>
+          <InitialDB />
+          <LoginTimeout>30</LoginTimeout>
+          <ExecutionTimeout>0</ExecutionTimeout>
+          <ConnectionProtocol>NotSpecified</ConnectionProtocol>
+          <ApplicationName>Среда Microsoft SQL Server Management Studio - запрос</ApplicationName>
+        </ConnectionNode>
+      </Items>
+    </LogicalFolder>
+    <LogicalFolder Name="Запросы" Type="0" Sorted="true">
+      <Items>
+        <FileNode Name="CREATE_DATABASE.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:AKI-LENOVO:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>AKI-LENOVO</AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>CREATE_DATABASE.sql</FullPath>
+        </FileNode>
+        <FileNode Name="INSERT_Author.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:AKI-LENOVO:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>AKI-LENOVO</AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>INSERT_Author.sql</FullPath>
+        </FileNode>
+        <FileNode Name="INSERT_Bibliography.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:AKI-LENOVO:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>AKI-LENOVO</AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>INSERT_Bibliography.sql</FullPath>
+        </FileNode>
+        <FileNode Name="INSERT_Book.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:AKI-LENOVO:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>AKI-LENOVO</AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>INSERT_Book.sql</FullPath>
+        </FileNode>
+        <FileNode Name="INSERT_Issuance.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:AKI-LENOVO:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>AKI-LENOVO</AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>INSERT_Issuance.sql</FullPath>
+        </FileNode>
+        <FileNode Name="INSERT_reader.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:AKI-LENOVO:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>AKI-LENOVO</AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>INSERT_reader.sql</FullPath>
+        </FileNode>
+        <FileNode Name="Query.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:AKI-LENOVO:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>AKI-LENOVO</AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>Query.sql</FullPath>
+        </FileNode>
+        <FileNode Name="TABLE_Author.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:AKI-LENOVO:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>AKI-LENOVO</AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>TABLE_Author.sql</FullPath>
+        </FileNode>
+        <FileNode Name="TABLE_Bibliography.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:AKI-LENOVO:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>AKI-LENOVO</AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>TABLE_Bibliography.sql</FullPath>
+        </FileNode>
+        <FileNode Name="TABLE_Book.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:AKI-LENOVO:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>AKI-LENOVO</AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>TABLE_Book.sql</FullPath>
+        </FileNode>
+        <FileNode Name="TABLE_Issuance.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:AKI-LENOVO:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>AKI-LENOVO</AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>TABLE_Issuance.sql</FullPath>
+        </FileNode>
+        <FileNode Name="TABLE_Reader.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:AKI-LENOVO:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>AKI-LENOVO</AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>TABLE_Reader.sql</FullPath>
+        </FileNode>
+        <FileNode Name="View.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:AKI-LENOVO:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>AKI-LENOVO</AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>View.sql</FullPath>
+        </FileNode>
+      </Items>
+    </LogicalFolder>
+    <LogicalFolder Name="Разное" Type="3" Sorted="true">
+      <Items />
+    </LogicalFolder>
+  </Items>
+</SqlWorkbenchSqlProject>
